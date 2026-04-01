@@ -128,6 +128,12 @@ node package/cli.js --settings settings.json
 
 ---
 
+## 🖥️ 运行截图
+
+![Open-ClaudeCode 运行截图](./test.png)
+
+---
+
 ## 📖 使用教程
 
 ### 模式一：交互模式（推荐新手）

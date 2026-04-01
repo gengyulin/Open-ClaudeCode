@@ -135,6 +135,16 @@ cat plugins/ralph-wiggum/.claude-plugin/plugin.json
 
 ---
 
+## ⭐ 星星墙
+
+感谢每一位给这个项目 Star 的朋友！你们的关注是我们前进的动力 💪
+
+<a href="https://github.com/LING71671/Open-ClaudeCode/stargazers">
+  <img src="https://reporoster.com/stars/LING71671/Open-ClaudeCode" alt="Stargazers repo roster for @LING71671/Open-ClaudeCode" />
+</a>
+
+---
+
 ## 🔗 相关链接
 
 - [Anthropic 官网](https://www.anthropic.com/)
